@@ -1,0 +1,12 @@
+{
+    "owner": "brunobertoldi",
+    "name": "Bruno Bertoldi",
+    "email": "bruno.bertoldi@gmail.com",
+    "prereleaseBranches": ["develop"],
+    "noVersionPrefix": false,
+    "plugins": [
+      "git-tag",
+      "first-time-contributor"
+    ]
+  }
+  
